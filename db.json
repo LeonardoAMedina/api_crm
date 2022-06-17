@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "unnnn",
+      "empresa": "nuuuu",
+      "email": "email@unmail.com",
+      "telefono": "456456",
+      "notas": "uyyuuyg",
+      "id": 2
+    },
+    {
+      "nombre": "iuyui",
+      "empresa": "iyu",
+      "email": "email@unmail.com",
+      "telefono": "456456",
+      "notas": "iyuiyuyuiu",
+      "id": 3
+    },
+    {
+      "nombre": "oupioou",
+      "empresa": "poiuoiu",
+      "email": "email@unmail.com",
+      "telefono": "777777777777",
+      "notas": "piopoiupioupiou",
+      "id": 4
+    },
+    {
+      "nombre": "wqwewq",
+      "empresa": "qweqe",
+      "email": "email@unmail.com",
+      "telefono": "456545",
+      "notas": "qwewqewqeq",
+      "id": 5
+    }
+  ]
+}
