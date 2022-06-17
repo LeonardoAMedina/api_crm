@@ -31,3 +31,5 @@ Uiliza:
 
     Ejemplo de defaultProps en Formulario.jsx
     Ejemplo de notacion condicional cliente?.nombre ?? ""
+
+# Uso https://my-json-server.typicode.com/LeonardoAMedina/api_crm/clientes
