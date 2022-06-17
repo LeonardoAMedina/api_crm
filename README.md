@@ -32,4 +32,8 @@ Uiliza:
     Ejemplo de defaultProps en Formulario.jsx
     Ejemplo de notacion condicional cliente?.nombre ?? ""
 
-# Uso https://my-json-server.typicode.com/LeonardoAMedina/api_crm/clientes
+# Se usa para publicar la api:
+    https://my-json-server.typicode.com/LeonardoAMedina/api_crm/clientes
+
+# Para el manejo de variables de entorno:
+    https://vitejs.dev/guide/env-and-mode.html#env-variables
